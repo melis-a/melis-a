@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melis-a
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning mechanics of OOP and Python 
+- 🌱 I’m currently learning mechanics of OOP and JavaScript.
 - 💞️ I’m looking to collaborate on projects regarding enchancements in the quality of healthcare systems 
 - 📫 How to reach me via email or phone #: rampersaudmelisa@gmail.com  (516)-937-8547
 
